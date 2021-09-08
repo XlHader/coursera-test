@@ -1,2 +1,2 @@
 # coursera-test
-github - pages
+Coursera test repository
